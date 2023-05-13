@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Beagle Breed</title>
+        <link rel="icon" href="path/to/favicon.png">
+        <link rel="stylesheet" href="path/to/styles.css">
+        </head>
+    <body>
+        <div class="container">
+            <div class="top-div">
+                <h2><u>The Beagle Blog</u></h2>
+                    <p>
+                        The beagle is a breed of small scent hound, similar in appearance to the much larger foxhound. The beagle was developed primarily for hunting hare, known as beagling. Possessing a great sense of smell and superior tracking instincts, the beagle is the primary breed used as a detection dog for prohibited agricultural imports and foodstuffs in quarantine around the world. The beagle is intelligent and is a popular pet due to its size, good temper, and a lack of inherited health problems.
+                    </p>
+                    <p>Read more about the beagle on <a href="https://en.wikipedia.org/wiki/Beagle" target="_blank">Wikipedia</a>.</p>                
+            </div>
+
+            <div class="image-div">
+                <h2><u>Images</u></h2>
+                <img src="./beagle.jpg">
+                <a href="https://www.hillspet.com/content/dam/cp-sites/hills/hills-pet/global/articles/dog-care/dog-breeds/img_DogBreed-Beagle.jpg" target="_blank">More Images</a>                
+            </div>
+
+            <div class="trivia-div">                
+                <h2><u>Trivia</u></h2>
+                <ol>
+                    <li>Height - 13-16 in (33-41 cm)</li>
+                    <li>Weight - 22-25 lb (10.0-11.3 kg)</li>
+                    <li>Coat - Short haired, hard coat of medium length</li>
+                    <li>Color - Tricolor or white in combination with black & tan/brownor brown/tan</li>
+                    <li> Life span - 12-15 years</li>
+                </ol>
+            </div>
+        </div>
+    </body>
+</html>
